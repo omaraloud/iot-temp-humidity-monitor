@@ -6,7 +6,7 @@ The hardware is built on a **custom-designed PCB**, and the full design process,
 
 > **View the full report**: [`IoT Final Report.pdf`](IoT%20Final%20Report.pdf)  
 > Note: OLED display functionality was **added after** the report was completed and is **not included** in the PDF.
-
+> Gerber (CAM) files for PCB manufacturing are included as a ZIP archive in this repository.
 ---
 
 ##  Features
@@ -20,10 +20,13 @@ The hardware is built on a **custom-designed PCB**, and the full design process,
 
 ##  Files in This Repo
 
-| File                | Description                                      |
-|---------------------|--------------------------------------------------|
-| `tempOLED.ino`      | Final working Arduino code including OLED support |
-| `IoT Final Report.pdf` | Report with PCB design, schematics, BOM, Adafruit dashboard, and notes |
+## Files in This Repo
+
+| File                     | Description                                                   |
+|--------------------------|---------------------------------------------------------------|
+| `tempOLED.ino`           | Final working Arduino code including OLED support             |
+| `IoT Final Report.pdf`   | Report with PCB design, schematics, BOM, Adafruit dashboard   |
+| `pcb-gerbers.zip`        | Gerber (CAM) files for PCB manufacturing                      |
 
 ---
 
