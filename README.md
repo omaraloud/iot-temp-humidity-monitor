@@ -26,7 +26,7 @@ The hardware is built on a **custom-designed PCB**, and the full design process,
 |--------------------------|---------------------------------------------------------------|
 | `tempOLED.ino`           | Final working Arduino code including OLED support             |
 | `IoT Final Report.pdf`   | Report with PCB design, schematics, BOM, Adafruit dashboard   |
-| `pcb-gerbers.zip`        | Gerber (CAM) files for PCB manufacturing                      |
+| `AlOud_Blue.zip`         | Gerber (CAM) files for PCB manufacturing                      |
 
 ---
 
