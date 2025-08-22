@@ -18,8 +18,6 @@ The hardware is built on a **custom-designed PCB**, and the full design process,
 
 ---
 
-##  Files in This Repo
-
 ## Files in This Repo
 
 | File                     | Description                                                   |
